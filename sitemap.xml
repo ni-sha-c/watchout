@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://nishaChandramoorthy.github.com/blog/2012/08/26/the-lost-paper-trail/</loc>
+        <lastmod>2012-08-26T21:10:10+05:30</lastmod>
+    </url>
+    <url>
         <loc>http://nishaChandramoorthy.github.com/blog/archives/</loc>
-        <lastmod>2012-08-26T20:47:01+05:30</lastmod>
+        <lastmod>2012-08-26T21:10:10+05:30</lastmod>
     </url>
     <url>
         <loc>http://nishaChandramoorthy.github.com/</loc>
-        <lastmod>2012-08-26T20:47:01+05:30</lastmod>
+        <lastmod>2012-08-26T21:10:10+05:30</lastmod>
     </url>
 </urlset>
